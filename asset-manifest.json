@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/innoloft/static/css/main.a6fbdb22.chunk.css",
+    "main.js": "/innoloft/static/js/main.4fee64e0.chunk.js",
+    "main.js.map": "/innoloft/static/js/main.4fee64e0.chunk.js.map",
+    "runtime-main.js": "/innoloft/static/js/runtime-main.82a88659.js",
+    "runtime-main.js.map": "/innoloft/static/js/runtime-main.82a88659.js.map",
+    "static/js/2.a1310f67.chunk.js": "/innoloft/static/js/2.a1310f67.chunk.js",
+    "static/js/2.a1310f67.chunk.js.map": "/innoloft/static/js/2.a1310f67.chunk.js.map",
+    "index.html": "/innoloft/index.html",
+    "precache-manifest.96486ce738e0be9968a950b5ccf499fe.js": "/innoloft/precache-manifest.96486ce738e0be9968a950b5ccf499fe.js",
+    "service-worker.js": "/innoloft/service-worker.js",
+    "static/css/main.a6fbdb22.chunk.css.map": "/innoloft/static/css/main.a6fbdb22.chunk.css.map",
+    "static/js/2.a1310f67.chunk.js.LICENSE.txt": "/innoloft/static/js/2.a1310f67.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82a88659.js",
+    "static/js/2.a1310f67.chunk.js",
+    "static/css/main.a6fbdb22.chunk.css",
+    "static/js/main.4fee64e0.chunk.js"
+  ]
+}
