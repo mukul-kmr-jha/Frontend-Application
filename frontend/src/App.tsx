@@ -11,7 +11,7 @@ import "./App.css";
 import EnergieLoft from "./assets/energieloft.png";
 
 const Popup: StyledComponent<any, any> = styled.div`
-  position: absolute
+  position: absolute;
   width: 100%;
   height: 100%;
   background: rgba(0, 0, 0, 0.5);

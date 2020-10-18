@@ -14,7 +14,7 @@ import {
   PASSWORD_STRENGTH_ENUM,
 } from "../utils/utils";
 import FormField from "./shared/FormField";
-import ButtonComponent from "./shared/Button;
+import ButtonComponent from "./shared/Button";
 
 const Form: StyledComponent<any, any> = styled.form`
   padding: 20px;
